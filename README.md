@@ -1,0 +1,2 @@
+# akiba.kadai.io
+Mypage
